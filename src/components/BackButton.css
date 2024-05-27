@@ -1,0 +1,15 @@
+.back-button {
+  width: 134px;
+  height: 134px;
+  position: fixed; /* Make the button fixed to the viewport */
+  top: 20px; /* Adjust the distance from the top */
+  left: 20px; /* Adjust the distance from the left */
+  z-index: 9999; /* Ensure it appears on top of other content */
+}
+
+.back-div {
+  /* No need to specify width here */
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}

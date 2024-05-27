@@ -1,0 +1,46 @@
+.intro-screen {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+.welcome-text {
+  font-size: 24px;
+  /* margin-bottom: 20px; */
+}
+.start{
+  position: absolute;
+  top: 400px;
+  right: 100px;
+}
+.cloud-kiddo{
+  position: absolute;
+  width: 40%;
+  height: 40%;
+  right: 0;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.kiddo{
+  position: absolute;
+  top: 130px;
+  left: 0;
+}
+.cloud{
+  position: absolute;
+  right: 30px;
+  top: 50px;
+}
+.monkey {
+  position: absolute;
+  width: 446px;
+  height: 430.91px;
+  top: 140px;
+  left: 415px;
+  gap: 0px;
+  border-radius: 48.49px 0px 0px 0px;
+  opacity: 0px;
+}
