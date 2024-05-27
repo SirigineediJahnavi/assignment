@@ -1,0 +1,20 @@
+.instruction-screen{
+    border: 1px solid;
+    height: 95vh;
+}
+.three-cards-div{
+    margin: 15vh;
+}
+.three-cards{
+    width: 80vw;
+}
+.play-div{
+    margin-top: 25px;
+    width: 83vw;
+    display: flex;
+    justify-content: flex-end;
+}
+.play{
+    width: 373px;
+    height: 120.51px;
+}

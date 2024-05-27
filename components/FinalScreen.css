@@ -1,0 +1,9 @@
+.final{
+    width: 1000px;
+    height: 700px;
+    z-index: 111;
+}
+.final-screen{
+    display: flex;
+    justify-content: center;
+}

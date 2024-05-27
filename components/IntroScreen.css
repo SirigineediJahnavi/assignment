@@ -1,0 +1,27 @@
+.welcomeKiddo{
+  width: 480px;
+  height: 220px;
+}
+.start{
+  top: 400px;
+  right: 100px;
+}
+.cloud-kiddo{
+  display: flex;
+  justify-content: center;
+}
+.monkey {
+  width: 446px;
+  height: 430.91px;
+} 
+.div-two{
+  display: flex;
+  gap: 25px;
+  justify-content: flex-end;
+  padding: 0 80px;
+}
+.start-div{
+  justify-content: flex-end;
+  display: flex;
+  flex-direction: column;
+}
